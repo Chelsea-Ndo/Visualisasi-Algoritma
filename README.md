@@ -4,10 +4,10 @@ Halo coders - - -
 Pada Kesempatan kali ini saya akan membagikan hasil visualisasi algoritma sorting saya dengan menggunakan bahasa pemrograman Python
 
 # Library Yang digunakan
--Tkinter
--Matplotlib
--Numpy
--Time
+-Tkinter <br />
+-Matplotlib <br />
+-Numpy <br />
+-Time <br />
 
 # Penjelasan Program
 1. Pada langkah ini Anda akan diperlihatkan dengan tampilan sederhana dengan GUI Python yang diambil dari tkinter.
