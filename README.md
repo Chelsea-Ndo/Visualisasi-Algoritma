@@ -10,8 +10,10 @@ Pada Kesempatan kali ini saya akan membagikan hasil visualisasi algoritma sortin
 -Time <br />
 
 # Penjelasan Program
-1. Pada langkah ini Anda akan diperlihatkan dengan tampilan sederhana dengan GUI Python yang diambil dari tkinter.
-2. Kemudian, saya menyediakan beberapa algoritma sorting yang bisa Anda pilih dengan menu dropdown yang saya buat.
-3. Setelah itu Anda dapat menjalankan masing-masing dari algoritma yang Anda ingin coba, pada kesempatan kali ini saya
+1. Pada langkah ini Anda akan diperlihatkan dengan tampilan sederhana dengan GUI Python yang diambil dari tkinter dan memvisualisasikannya
+   dengan menggunakan Matplotlib.
+   ![App Screenshot](https://github.com/Chelsea-Ndo/Visualisasi-Agoritma/blob/main/Sc-1.jpg)
+3. Kemudian, saya menyediakan beberapa algoritma sorting yang bisa Anda pilih dengan menu dropdown yang saya buat.
+4. Setelah itu Anda dapat menjalankan masing-masing dari algoritma yang Anda ingin coba, pada kesempatan kali ini saya
    menyediakan 5 jenis algoritma sorting.
-4. Selesai
+5. Selesai
